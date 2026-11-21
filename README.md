@@ -3,8 +3,5 @@
 <h3 align="center">Cyber Security Enthusiast | Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c154ce7d-acb2-4866-ad41-dc765f5adc7b/ddshsog-31e4e666-8313-46c3-a657-7e8489d6d91b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxNTRjZTdkLWFjYjItNDg2Ni1hZDQxLWRjNzY1ZjVhZGM3YlwvZGRzaHNvZy0zMWU0ZTY2Ni04MzEzLTQ2YzMtYTY1Ny03ZTg0ODlkNmQ5MWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uemYHf1RYgm_eG5qF7k7dolI0T-YGwzgg0KwjGzi-74">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshax07&label=Profile%20views&color=0e75b6&style=flat" alt="harshax07" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
